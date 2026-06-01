@@ -23,6 +23,7 @@ npm run sonar
 node sonar-project.js
 
 to upload into nexus repo, user below command
+
 npm publish
 
 To generate the Nexus token with base 64 format, we will use below command
